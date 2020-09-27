@@ -1,6 +1,6 @@
 ### Welcome to my Github 💻
 
-My name is Jiyon. Welcome to my space! 🍎
+👋🏼 Hi there, my name is Jiyon. Welcome to my space! 🍎
 
 - 🖥  I'm currently a student at Flatiron School's Software Engineering Program graduating on October 2020.
 - 🌱  I’m currently learning React-Redux through my Mod 5 Project.
