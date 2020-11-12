@@ -2,10 +2,10 @@
 
 👋🏼 Hi there, my name is Jiyon. Welcome to my space! 🍎
 
-- 🖥  I'm currently a student at Flatiron School's Software Engineering Program graduating on October 2020.
-- 🌱  I’m currently learning React-Redux through my Mod 5 Project.
+- 🖥  I'm no longer a student and I am proud to announce I've graduated from the Flatiron School's Software Engineering Program on October 2020!
+- 🌱  I’m currently learning React.
 - 📚  I'm currently reading Eloquent Javascript.
-- 🙂  Fun facts: Before software development, I taught students 💗 as an elementary school teacher, reading tutor and as a YMCA camp counselor.
+- 🙂  Fun facts: Before software development, I taught students as an elementary school teacher.
 - 📫  How to reach me: hello@jiyoncodes.com
 
 Thanks for taking a look! 🤓 
